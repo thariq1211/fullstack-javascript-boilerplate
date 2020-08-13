@@ -1,0 +1,1 @@
+# Boiler plate for fullstack javascript app
